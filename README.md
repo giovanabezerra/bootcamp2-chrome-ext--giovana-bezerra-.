@@ -1,4 +1,5 @@
-[manifest.json](https://github.com/user-attachments/files/22325292/manifest.json)
+Atividade dea matéria Bootcamp II da faculdade. 
+
 {
     "manifest_version": 3,
     "name": "Olá, Mundo 3xt3ns10n",
@@ -22,7 +23,7 @@
 
     }
 }
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
