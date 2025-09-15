@@ -1,35 +1,4 @@
-[popup.html](https://github.com/user-attachments/files/22325274/popup.html)
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Olá</title>
-    <!--Bootstrap-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <!-- CSS próprio -->
-    <link rel="stylesheet" href="styele.css">
-</head>
-<body class="bg-light">
-    <div class="container p-3" style="width: 320px">
-        <div class="card shadow-sm border-0 rounded-4">
-            <div class="card-body">
-                <h1 id="titulo" class="h4 fw-bold text-center mb-2">Olá, mundo!</h1>
-                <p class="text-muted text-center mb-3">Minha primeira extensão do Chrome</p>
-                <div class="d-grid gap-2">
-                    <button id="oi" class="btn btn-primary">Diga oi você também!</button>
-                    <button id="reset" class="btn btn-outline-secondary">Resetar</button>
-                </div>
-                <div class="card-footer bg-white">
-                    <small class="text-muted">Feito por Giovana para a disciplina de Bootcamp II</small>
 
-                </div>
-            </div>
-            
-        </div>
-       
-    </div>
-    <script src="/hello-ext/popup.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-</body>
-</html>
+[popup.html](https://github.com/user-attachments/files/22325282/popup.html)
+[popup.js](https://github.com/user-attachments/files/22325283/popup.js)[manifest.json](https://github.com/user-attachments/files/22325286/manifest.json)
+[style.css](https://github.com/user-attachments/files/22325284/style.css)
